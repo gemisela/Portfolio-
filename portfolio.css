@@ -1,0 +1,14 @@
+div.header{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+
+}
+div.part{
+    display: flex;
+    justify-content: center;
+}
+div.port{
+    display: flex;
+    justify-content: center;
+}
